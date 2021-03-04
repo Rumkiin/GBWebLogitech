@@ -1,0 +1,15 @@
+body{
+    font-family: Roboto;
+}
+
+.header{
+    font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+/* graphite */
+
+color: #2F3132;
+}
